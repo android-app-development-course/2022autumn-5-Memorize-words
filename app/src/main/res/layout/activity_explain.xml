@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Explain">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:text="1首页取的ID会在登录后显示在右上方.\n\n
+2.在主界面，点击“录入”、“背诵”、“个人中
+心”、“复习”会显示不同的面板。\n\n
+3.在“录入”界面点击“录入”按钮会把单词录入到“背
+诵单词库”与“单词库”中。\n\n
+4.在“背诵”和“复习”界面点击“认识”会删除该单
+词，点击“不认识”会显示翻译，点击“下一个”会显
+示下个单词。\n\n
+5.在“个人中心”界面，为了更方便查看单词，点击“单词
+    库”，显示加入过的所有单词，点击单词可打开单词详情界面。\n
+"
+        />
+</LinearLayout>

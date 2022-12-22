@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1705" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1665" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/drawable/mdialog_bg.xml" value="0.1705" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_all_words_base.xml" value="0.1" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_check_words.xml" value="0.264" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_detail_word.xml" value="0.25" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_explain.xml" value="0.24947916666666667" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_input_words.xml" value="0.25" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_mdialog.xml" value="0.24947916666666667" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_recite_words.xml" value="0.176" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_recite_words2.xml" value="0.24947916666666667" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_result.xml" value="0.24947916666666667" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/activity_self_center.xml" value="0.24947916666666667" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/fragment_a.xml" value="0.264" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/fragment_b.xml" value="0.2484375" />
+        <entry key="..\:/androidSave/YDWord/app/src/main/res/layout/list_item.xml" value="0.24947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
